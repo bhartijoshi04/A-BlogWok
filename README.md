@@ -64,6 +64,7 @@ GEMINI_API_KEY=your_gemini_api_key
 ```bash
 streamlit run app.py
 ```
+[Watch the demo video](https://github.com/bhartijoshi04/A-BlogWok/blob/main/file/DEMO.mp4?raw=true)
 
 # Usage
 
