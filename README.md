@@ -48,11 +48,9 @@ pip install -r requirements.txt
 
 ### Set up API keys:
 
-```bash
 Serper API Key
 
 Google Gemini API Key
-```
 
 ### Create a .env file and add:
 
